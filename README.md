@@ -1,6 +1,9 @@
 # robotframework-automation-tests
 
 Automated testing project for **GoDev Trainee** using **Robot Framework**.
+
+Disclaimer: This project is a Standardized Test Automation Framework developed for portfolio purposes. It is a simulated project designed to demonstrate technical proficiency in Robot Framework architecture, Page Object Model (POM), and best practices. No proprietary data or confidential source code from any organization is included in this repository.
+
 This project covers:
 
 - **Web Automation:** SauceDemo using SeleniumLibrary + Robocop
