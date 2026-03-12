@@ -101,13 +101,13 @@ This project covers:
 1. **Dryrun**
 
 ```sh
-robot --dryrun -d reports/dryrun .
+robot --dryrun -d resources/reports/dryrun .
 ```
 
-2. **Test**
+2. **Run Test**
 
 ```sh
-robot -d reports/results -i <tag> .
+robot -d resources/reports/result -i <tag> .
 ```
 
 **Appium command:**
@@ -121,7 +121,7 @@ appium
 2. Open another terminal (ensure venv is activated) and run:
 
 ```sh
-robot -d reports/results -i <tag> .
+robot -d resources/reports/result -i <tag> .
 ```
 
 Make sure your emulator is running or a real device is connected via USB
